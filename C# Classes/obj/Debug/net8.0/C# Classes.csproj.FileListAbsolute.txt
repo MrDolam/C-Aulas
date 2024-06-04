@@ -1,0 +1,28 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\bin\Debug\net8.0\C# Classes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\bin\Debug\net8.0\C# Classes.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\bin\Debug\net8.0\C# Classes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\bin\Debug\net8.0\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\bin\Debug\net8.0\C# Classes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\refint\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\C# Classes.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Classes\obj\Debug\net8.0\ref\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\bin\Debug\net8.0\C# Classes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\bin\Debug\net8.0\C# Classes.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\bin\Debug\net8.0\C# Classes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\bin\Debug\net8.0\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\bin\Debug\net8.0\C# Classes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\refint\C# Classes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\C# Classes.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes\obj\Debug\net8.0\ref\C# Classes.dll

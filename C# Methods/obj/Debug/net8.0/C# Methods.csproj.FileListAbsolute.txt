@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\bin\Debug\net8.0\C# Methods.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\bin\Debug\net8.0\C# Methods.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\bin\Debug\net8.0\C# Methods.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\bin\Debug\net8.0\C# Methods.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\bin\Debug\net8.0\C# Methods.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\refint\C# Methods.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\C# Methods.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Methods\obj\Debug\net8.0\ref\C# Methods.dll

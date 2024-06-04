@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\bin\Debug\net8.0\C# Loops.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\bin\Debug\net8.0\C# Loops.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\bin\Debug\net8.0\C# Loops.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\bin\Debug\net8.0\C# Loops.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\bin\Debug\net8.0\C# Loops.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\refint\C# Loops.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\C# Loops.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Loops\obj\Debug\net8.0\ref\C# Loops.dll

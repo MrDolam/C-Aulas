@@ -1,0 +1,28 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\bin\Debug\net8.0\C# Variables.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\bin\Debug\net8.0\C# Variables.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\bin\Debug\net8.0\C# Variables.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\bin\Debug\net8.0\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\bin\Debug\net8.0\C# Variables.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\refint\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\C# Variables.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Variables\obj\Debug\net8.0\ref\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\bin\Debug\net8.0\C# Variables.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\bin\Debug\net8.0\C# Variables.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\bin\Debug\net8.0\C# Variables.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\bin\Debug\net8.0\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\bin\Debug\net8.0\C# Variables.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\refint\C# Variables.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\C# Variables.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Variables\obj\Debug\net8.0\ref\C# Variables.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\bin\Debug\net8.0\C# Classes2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\bin\Debug\net8.0\C# Classes2.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\bin\Debug\net8.0\C# Classes2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\bin\Debug\net8.0\C# Classes2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\bin\Debug\net8.0\C# Classes2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\refint\C# Classes2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\C# Classes2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C# Learning\C# Classes2\obj\Debug\net8.0\ref\C# Classes2.dll
